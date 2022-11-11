@@ -1,32 +1,3 @@
----
-title: Proyectos
----
-
-<!-- @todo: Añadir referencias -->
-
-## Personales 
-
-### Cristian.lat
-
-_Cristian.lat_ es mi sitio web personal. Es un proyecto modesto y pequeño, pero hecho con mucho amor. 
-
-Estoy muy orgulloso de él y cuido de mantenerlo liviano y depurado.
-
-En él, publico de vez en cuando algún que otro artículo o traducción.
-
-### MiyanoSwift
-
-_MiyanoSwift_ es el nombre en clave de un proyecto de publicación automatizada de mis notas creadas con la aplicación _[Bear](//bear.app)_
-
-Se llama _[Miyano](//github.com)_ en honor al primer proyecto del mismo tipo. También lleva la palabra _Swift_ en el nombre porque empezó siendo un proyecto hecho con ese lenguaje de programación. 
-
-Actualmente lo desarrollo con _[SvelteKit](//sveltekit)_, aunque hay varios proyectos derivados que me gustaría explorar en _Swift_.
-
-El objetivo del proyecto es crear una interfaz gráfica igual a la de _Bear_, pública y desde la cual pueda compartir mis notas. 
-
-También estoy evaluando la idea de crear una _API_ a través de la que recuperar las notas con la(s) etiqueta(s) deseada(s) en formato _JSON_ para mostrarlas directamente en el blog de esta web, lo que me permitiría escribir los artículos en Bear y no tener que duplicar la información en el Blog.
-
-El proyecto es visible en su estado actual [aquí](//bearkit.onrender.com)
 
 ### Zettels
 
@@ -55,16 +26,3 @@ Al principio el proyecto convivía con mi blog personal (_cristian.lat_), pero m
 Para ese entonces ya había empezado una carrera como desarrollador (aunque ~~seguía~~ sigo ~~muy~~ un poco verde) y pude sufrir en _"carne propia"_ los efectos de no aplicar la separación de responsabilidades [^concerns]
 
 [^concerns]: _Separation of concerns_
-
-### SwiftUItilities
-
-Pequeña librería que extiende _SwiftUI_ para simplificar y acortar la sintáxis. La uso en todos mis proyectos. La he usado también en producción.
-
-### Curso de organización digital
-
-Curso sobre cómo gestionar correctamente el exceso de información y cómo organizar archivos de forma efectiva sin volverse loco.
-
-Actualmente está en proceso de redacción.
-
-
-
